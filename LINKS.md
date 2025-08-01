@@ -16,6 +16,7 @@
 * [Julia](http://julialang.org/): Scientific computing programming language
 * [Kestrel](https://github.com/dotnet/aspnetcore/tree/main/src/Servers/Kestrel): web server (C# + libuv + [ASP.NET Core](http://github.com/aspnet))
 * [Knot DNS Resolver](https://www.knot-resolver.cz/): A minimalistic DNS caching resolver
+* [Lean](https://lean-lang.org/): A programming language and theorem prover
 * [Lever](http://leverlanguage.com): runtime, libuv at the 0.9.0 release
 * [libnode](https://github.com/plenluno/libnode): C++ implementation of Node.js
 * [libstorj](https://github.com/Storj/libstorj): Library for interacting with Storj network
